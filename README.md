@@ -1,7 +1,7 @@
 # School_District_Analysis
 Pycity schools with Pandas
   ##Introduction
-    Maria is a chief data scientist of city schools. In this project School district analysis, we were helping Maria on analyzing 
+         Maria is a chief data scientist of city schools. In this project School district analysis, we were helping Maria on analyzing 
     student funding and students’ standardized test data. We aggregated the data and illustrated the trends of school performance. 
     Then school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic 
     dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. So Maria 
@@ -24,8 +24,9 @@ Student data after replacing the ninth graders’ math and reading scores with N
     reading scores.
     
     District summary after adding NaN 
-    <img width="1276" alt="Screen Shot 2022-01-21 at 11 58 01 AM" src="https://user-images.githubusercontent.com/72629108/150622060-07d1af35-eb06-448c-88b5-69049128800d.png">
-    
+   
+   <img width="1286" alt="Screen Shot 2022-01-21 at 1 06 53 PM" src="https://user-images.githubusercontent.com/72629108/150623304-d091161d-c5bb-4a2e-997d-e4d18fed7c33.png">
+
 District summary before adding NaN 
     <img width="1276" alt="Screen Shot 2022-01-21 at 11 58 01 AM" src="https://user-images.githubusercontent.com/72629108/150622016-75c1bda7-180c-44f8-a6a6-a407b2e6ad02.png">
 
@@ -35,10 +36,13 @@ District summary before adding NaN
     drastic change in the overall pass percentage of Thomas high school in the school summary. After replacing the ninth graders’ 
     math and reading scores, Thomas High School’s performance has decreased.
     
-    <img width="1187" alt="Screen Shot 2022-01-21 at 8 08 32 PM" src="https://user-images.githubusercontent.com/72629108/150622656-51bdc3b1-c6af-45b2-9519-46dd9474b23f.png">
+   <img width="1187" alt="Screen Shot 2022-01-21 at 8 08 32 PM" src="https://user-images.githubusercontent.com/72629108/150623349-7f130b76-e732-4522-bdb8-c0d62f482d38.png">
+   
    Then we calculated the the percentage of 10th-12th grade students percentage of passing math,percentage of passing reading,(overall passing percentage ) passing math and reading  from Thomas High School replaced the values with newly calculated values. Now the dataframe is like
     
-    <img width="1187" alt="Screen Shot 2022-01-21 at 8 17 23 PM" src="https://user-images.githubusercontent.com/72629108/150622881-7d057820-9404-4b5c-a6fc-594f71c904aa.png">
+   <img width="1187" alt="Screen Shot 2022-01-21 at 8 17 23 PM" src="https://user-images.githubusercontent.com/72629108/150623364-c6e94de2-2649-4979-a10b-4d2906fa1e46.png">
+
+ <img width="1202" alt="Screen Shot 2022-01-21 at 8 38 53 PM" src="https://user-images.githubusercontent.com/72629108/150623408-023e6fec-f3f9-4620-acbc-e32e7f617cfa.png">
 
  *Math and reading scores by grade
     We created a dataframe with Math and reading scores by grade and we got NaN values for 9th grade students of Thomas high 
