@@ -36,39 +36,39 @@ Pycity schools with Pandas
     drastic change in the overall pass percentage of Thomas high school in the school summary. After replacing the ninth graders’ 
     math and reading scores, Thomas High School’s performance has decreased.
     
-   <img width="1187" alt="Screen Shot 2022-01-21 at 8 08 32 PM" src="https://user-images.githubusercontent.com/72629108/150623349-7f130b76-e732-4522-bdb8-c0d62f482d38.png">
+  <img width="1187" alt="Screen Shot 2022-01-21 at 8 08 32 PM" src="https://user-images.githubusercontent.com/72629108/150623349-7f130b76-e732-4522-bdb8-c0d62f482d38.png">
    
    Then we calculated the the percentage of 10th-12th grade students percentage of passing math,percentage of passing reading,(overall passing percentage ) passing math and reading  from Thomas High School replaced the values with newly calculated values. Now the dataframe is like
     
-   <img width="1187" alt="Screen Shot 2022-01-21 at 8 17 23 PM" src="https://user-images.githubusercontent.com/72629108/150623364-c6e94de2-2649-4979-a10b-4d2906fa1e46.png">
+  <img width="1187" alt="Screen Shot 2022-01-21 at 8 17 23 PM" src="https://user-images.githubusercontent.com/72629108/150623364-c6e94de2-2649-4979-a10b-4d2906fa1e46.png">
 
-   <img width="1202" alt="Screen Shot 2022-01-21 at 8 38 53 PM" src="https://user-images.githubusercontent.com/72629108/150623408-023e6fec-f3f9-4620-acbc-e32e7f617cfa.png">
+  <img width="1202" alt="Screen Shot 2022-01-21 at 8 38 53 PM" src="https://user-images.githubusercontent.com/72629108/150623408-023e6fec-f3f9-4620-acbc-e32e7f617cfa.png">
 
  * Math and reading scores by grade
     We created a dataframe with Math and reading scores by grade and we got NaN values for 9th grade students of Thomas high 
     school
-   <img width="1181" alt="Screen Shot 2022-01-21 at 8 19 22 PM" src="https://user-images.githubusercontent.com/72629108/150622937-81f63fb7-ac5a-4f10-b655-4e09de481732.png">
+  <img width="1181" alt="Screen Shot 2022-01-21 at 8 19 22 PM" src="https://user-images.githubusercontent.com/72629108/150622937-81f63fb7-ac5a-4f10-b655-4e09de481732.png">
 
-   <img width="1181" alt="Screen Shot 2022-01-21 at 8 19 35 PM" src="https://user-images.githubusercontent.com/72629108/150622947-cab804aa-ca88-418b-b906-87e62be5b80c.png">
+  <img width="1181" alt="Screen Shot 2022-01-21 at 8 19 35 PM" src="https://user-images.githubusercontent.com/72629108/150622947-cab804aa-ca88-418b-b906-87e62be5b80c.png">
 
   
  * Scores by school spending
     There is not much difference we can see in the values of Scores by school spending by replacing the ninth-grade scores. We can 
     also see that those schools which spend less per student have better overall passing percent
   
-   <img width="1294" alt="Screen Shot 2022-01-21 at 12 44 01 PM" src="https://user-images.githubusercontent.com/72629108/150622990-6f495ecf-1d80-4945-bcf4-31e3df64c87d.png">
+  <img width="1294" alt="Screen Shot 2022-01-21 at 12 44 01 PM" src="https://user-images.githubusercontent.com/72629108/150622990-6f495ecf-1d80-4945-bcf4-31e3df64c87d.png">
 
  * Scores by school size
     Scores by school size, larger School size adversely affected the overall passing percent. But smaller and medium sized 
     schools has almost similar overall passing percent. Replacing the ninth-grade scores hasn’t affected Scores by school size
   
-   <img width="1267" alt="Screen Shot 2022-01-21 at 12 44 58 PM" src="https://user-images.githubusercontent.com/72629108/150622998-d67b5b27-01f6-434b-be72-a3b9ef6e13ca.png">
+  <img width="1267" alt="Screen Shot 2022-01-21 at 12 44 58 PM" src="https://user-images.githubusercontent.com/72629108/150622998-d67b5b27-01f6-434b-be72-a3b9ef6e13ca.png">
 
  * Scores by school type
     Charter schools have more passing percent when compared to district schools. Replacing the ninth-grade scores hasn’t affected 
     Scores by school type
    
-   <img width="1266" alt="Screen Shot 2022-01-21 at 12 45 33 PM" src="https://user-images.githubusercontent.com/72629108/150623019-ac298986-801d-4459-8b07-508bf17c4308.png">
+  <img width="1266" alt="Screen Shot 2022-01-21 at 12 45 33 PM" src="https://user-images.githubusercontent.com/72629108/150623019-ac298986-801d-4459-8b07-508bf17c4308.png">
 
   ## Summary
   After replacing the ninth graders' scores with NaN these are the changes,
