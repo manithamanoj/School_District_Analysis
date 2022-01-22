@@ -1,6 +1,6 @@
 # School_District_Analysis
 Pycity schools with Pandas
-  ##Introduction
+  ## Introduction
          Maria is a chief data scientist of city schools. In this project School district analysis, we were helping Maria on analyzing 
     student funding and students’ standardized test data. We aggregated the data and illustrated the trends of school performance. 
     Then school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic 
@@ -8,7 +8,7 @@ Pycity schools with Pandas
     has asked us to replace the 9 th grade math and reading scores for Thomas High School with NaNs while keeping the rest of the 
     data unharmed. Then perform the analysis and find out the fluctuations in overall analysis
 
- ##Results
+ ## Results
 
 Student data after replacing the ninth graders’ math and reading scores with NaN
  
@@ -70,7 +70,7 @@ District summary before adding NaN
    
    <img width="1266" alt="Screen Shot 2022-01-21 at 12 45 33 PM" src="https://user-images.githubusercontent.com/72629108/150623019-ac298986-801d-4459-8b07-508bf17c4308.png">
 
-  ##Summary
+  ## Summary
   After replacing the ninth graders' scores with NaN these are the changes,
 
   • There is a slight decrease in overall passing percent of students in District summary
