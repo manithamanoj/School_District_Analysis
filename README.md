@@ -28,7 +28,7 @@ Student data after replacing the ninth graders’ math and reading scores with N
    <img width="1286" alt="Screen Shot 2022-01-21 at 1 06 53 PM" src="https://user-images.githubusercontent.com/72629108/150623304-d091161d-c5bb-4a2e-997d-e4d18fed7c33.png">
 
 District summary before adding NaN 
-    <img width="1276" alt="Screen Shot 2022-01-21 at 11 58 01 AM" src="https://user-images.githubusercontent.com/72629108/150622016-75c1bda7-180c-44f8-a6a6-a407b2e6ad02.png">
+   <img width="1250" alt="Screen Shot 2022-01-21 at 1 06 34 PM" src="https://user-images.githubusercontent.com/72629108/150623436-4067e14e-b7a7-4ab4-949c-b1c57d05d5b5.png">
 
  
  *Per school summary
