@@ -32,13 +32,15 @@ Pycity schools with Pandas
 
  
  * Per school summary
-     The per school summary hasn’t changed for other schools after adding nan to 9th graders of Thomas high school. You can see a 
-     drastic change in the overall pass percentage of Thomas high school in the school summary. After replacing the ninth graders’ 
-     math and reading scores, Thomas High School’s performance has decreased.
+     The per school summary hasn’t changed for other schools after adding nan to 9th graders of Thomas high school. You can
+     see a drastic change in the overall pass percentage of Thomas high school in the school summary. After replacing the ninth
+     graders’ math and reading scores, Thomas High School’s performance has decreased.
     
   <img width="1187" alt="Screen Shot 2022-01-21 at 8 08 32 PM" src="https://user-images.githubusercontent.com/72629108/150623349-7f130b76-e732-4522-bdb8-c0d62f482d38.png">
    
-     Then we calculated the the percentage of 10th-12th grade students percentage of passing math,percentage of passing reading,(overall passing percentage)      passing math and reading  from Thomas High School replaced the values with newly calculated values. Now the dataframe is like
+     Then we calculated the the percentage of 10th-12th grade students percentage of passing math,percentage of passing reading,
+     (overall passing percentage) passing math and reading  from Thomas High School replaced the values with newly calculated values. 
+     Now the dataframe is like
     
   <img width="1187" alt="Screen Shot 2022-01-21 at 8 17 23 PM" src="https://user-images.githubusercontent.com/72629108/150623364-c6e94de2-2649-4979-a10b-4d2906fa1e46.png">
 
@@ -78,9 +80,9 @@ Pycity schools with Pandas
     • When we look into per school summary, you can see a drastic decrease in the overall passing percent of Thomas High School and 
     it doesn’t affect other schools in any possible ways
   
-    • This has popped out Thomas High School from Top 5 Schools.But we calculated the the percentage of 10th-12th grade students percentage of
-    passing math,percentage of passing reading,(overall passing percentage ) passing math and reading  from Thomas High School replaced the values with newly 
-    calculated values.That brought the Thomas High School to second position in the list. 
+    • This has popped out Thomas High School from Top 5 Schools.But we calculated the the percentage of 10th-12th grade students 
+    percentage of passing math,percentage of passing reading,(overall passing percentage ) passing math and reading  from Thomas High School
+    replaced the values with newly calculated values.That brought the Thomas High School to second position in the list. 
   
     • When we looked into the average math score for each grade level from each school, we can see that Thomas High School 9th
     graders' scores have nan instead of a value. We can confirm that the changes worked as expected as we can see NaN in the result
